@@ -1,0 +1,10 @@
+.activities {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.activity {
+  border: 1px solid #000;
+}
